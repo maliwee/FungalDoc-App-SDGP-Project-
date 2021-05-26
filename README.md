@@ -1,3 +1,7 @@
+# FungalDoc App 
+This is a mobile application to detect skin fungal infections using Data Science concepts.
+We used Python, Flutter and TensorFlow for the project.
+
 # tensorflow
 
 A new Flutter project.
